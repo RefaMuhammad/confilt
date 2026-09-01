@@ -1,2 +1,2 @@
-Baris pertama: Ini adalah text dasar.
-Baris kedua: Teks tambahan.
+Baris pertama: Ini adalah text dasar yang dirombak total oleh fitur-b.
+Baris kedua: Tambahan eksklusif fitur-b.
