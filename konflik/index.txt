@@ -1,0 +1,2 @@
+Baris pertama: Ini adalah text dasar.
+Baris kedua: Teks tambahan.
